@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mattchannn
 
-🧑 I'm a technical consultant, a software developer, a great listener
+🧑 I'm a technical consultant, a software developer
 
 🥇 I’m interested in learning, coding, software development, system design
 
