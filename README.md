@@ -4,7 +4,7 @@
 
 🥇 I’m interested in learning, coding, software development, system design
 
-🌱 I’m currently learning React, Hugo (static website generator)
+🌱 I’m currently learning React, Gatsby, Node.js, Java Spring (static website generator)
 
 🎃 Reach me at [LinkedIn](https://www.linkedin.com/in/mat-c-048371154/)
 
